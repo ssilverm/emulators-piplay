@@ -1,0 +1,27 @@
+[submodule "dgen-sdl-1.32"]
+	path = dgen-sdl-1.32
+	url = https://github.com/ssilverm/dgen-sdl
+[submodule "gpsp"]
+	path = gpsp
+	url = https://github.com/ssilverm/gpsp-piplay
+[submodule "pcsx_rearmed"]
+	path = pcsx_rearmed
+	url = https://github.com/ssilverm/pcsx-piplay
+[submodule "pisnes"]
+	path = pisnes
+	url = https://github.com/ssilverm/pisnes-piplay
+[submodule "cavestory_rpi-master"]
+	path = cavestory_rpi-master
+	url = https://github.com/ssilverm/cavestory_rpi
+[submodule "mednafen"]
+	path = mednafen
+	url = https://github.com/ssilverm/mednafen-dispmanx-sdl
+[submodule "fba"]
+	path = fba
+	url = https://github.com/ssilverm/pifba-config-patch
+[submodule "fceux"]
+	path = fceux
+	url = https://github.com/ssilverm/fceux-piplay
+[submodule "usp_0.0.43"]
+	path = usp_0.0.43
+	url = https://github.com/ssilverm/usp-piplay
