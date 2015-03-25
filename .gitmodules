@@ -6,7 +6,7 @@
 	url = https://github.com/ssilverm/gpsp-piplay
 [submodule "pcsx_rearmed"]
 	path = pcsx_rearmed
-	url = https://github.com/ssilverm/pcsx-piplay
+	url = https://github.com/ssilverm/pcsx_rearmed
 [submodule "pisnes"]
 	path = pisnes
 	url = https://github.com/ssilverm/pisnes-piplay
